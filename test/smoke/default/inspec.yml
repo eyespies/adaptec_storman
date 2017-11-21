@@ -1,0 +1,10 @@
+name: adaptec_storman
+title: Adaptec Storage Manager Service and Command Line tools
+maintainer: Justin Spies
+copyright: Justin Spies
+copyright_email: justin@thespies.org
+license: Proprietary, All rights reserved
+summary: Verify that the Adaptec Storage Manager installs and configures correctly
+version: 1.0.0
+supports:
+  - os-family: redhat
