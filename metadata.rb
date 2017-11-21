@@ -1,6 +1,6 @@
 name 'adaptec_storman'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Justin Spies'
+maintainer_email 'justin@thespies.org'
 license 'All Rights Reserved'
 description 'Installs/Configures adaptec_storman'
 long_description 'Installs/Configures adaptec_storman'
